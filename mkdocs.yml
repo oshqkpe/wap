@@ -1,0 +1,8 @@
+site_name: My New Software
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Features: features.md
+  - Contact: contact.md
